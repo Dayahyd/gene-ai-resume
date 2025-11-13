@@ -121,6 +121,9 @@ Add AI interview questions generation based on the resume.
 
 “Make this resume tailored for a Data Analyst position.”
 
+
+
+
 🎯 End Result
 
 A full-stack GenAI app that:
