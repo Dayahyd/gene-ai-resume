@@ -113,6 +113,9 @@ Integrate text-to-PDF and download option.
 
 Add AI interview questions generation based on the resume.
 
+
+
+
 🧪 Example Prompts You Can Test
 
 “Regenerate the summary section in a more formal tone.”
