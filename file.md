@@ -1,6 +1,7 @@
 🧠 Project Name: “Smart Resume Generator (AI-powered Resume Builder)”
 🚀 Goal
 
+
 Build a Generative AI app that automatically creates a professional resume based on a user’s career details (skills, experience, and target role).
 It uses LLMs (like GPT) for text generation and Prompt Engineering for customization.
 
