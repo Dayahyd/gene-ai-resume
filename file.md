@@ -55,6 +55,8 @@ Allow the user to edit sections manually.
 
 Option to “Re-generate Summary” or “Add new section”.
 
+
+
 📦 Folder Structure
 smart-resume-ai/
 ├── backend/
