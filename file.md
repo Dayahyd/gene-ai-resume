@@ -73,6 +73,9 @@ smart-resume-ai/
 │   └── package.json
 └── README.md
 
+
+
+
 🧠 Core AI Logic Example (Python)
 # ai_service.py
 from openai import OpenAI
