@@ -103,6 +103,9 @@ def generate_resume(data):
 
     return response.choices[0].message.content
 
+
+
+
 💡 Possible Enhancements
 
 Add LinkedIn import to auto-fill user data.
