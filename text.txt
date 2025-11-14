@@ -1,1 +1,2 @@
 this file ment for gene ai resume builder
+ this is for generative ai
